@@ -1,0 +1,34 @@
+{
+  "dictionary_source_prefixes": {
+    "asm": "https://raw.githubusercontent.com/check-spelling/assembly-dictionaries/20231110/",
+    "cspell": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20230509/dictionaries/",
+    "cspell1": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20241114/dictionaries/",
+    "census": "https://raw.githubusercontent.com/check-spelling-sandbox/census/dictionaries-d90e686f89dd241ad61d30f26619e54d73e73c6e/dictionaries/"
+  },
+  "extra_dictionaries": [
+    "cspell1:software-terms/softwareTerms.txt",
+    "cspell1:html/html.txt",
+    "census:census-5.txt",
+    "cspell1:python/python/python-lib.txt",
+    "cspell1:node/node.txt",
+    "cspell1:filetypes/filetypes.txt",
+    "cspell1:python/common/extra.txt",
+    "cspell1:csharp/csharp.txt",
+    "cspell1:npm/npm.txt",
+    "cspell1:golang/go.txt",
+    "cspell1:java/java.txt",
+    "cspell1:aws/aws.txt",
+    "cspell1:fullstack/fullstack.txt",
+    "cspell1:java/java-terms.txt",
+    "cspell1:shell/shell-all-words.txt",
+    "asm:ia64-isa.txt",
+    "cspell1:php/php.txt",
+    "cspell1:typescript/typescript.txt",
+    "cspell1:dotnet/dotnet.txt",
+    "cspell1:powershell/powershell.txt",
+    ""
+  ],
+  "check_extra_dictionaries": [
+    ""
+  ]
+}
